@@ -63,3 +63,18 @@
     padding-bottom: 3px;
     border-bottom: 1px solid #5dc952;
 }
+
+#header__banner {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 55px;
+    padding-left: 35px;
+    padding-right: 35px;
+    background-color: #d4f0fd;
+}
+
+#header__banner .header__banner {
+    width: 310px;
+    margin: 0 auto;
+}
